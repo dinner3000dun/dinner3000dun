@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fccabc20-7375-42b9-9fce-209a424c9535" name="yolov8_bytetrack">
+        <fileTransfer rootFolder="/workspace" accessType="SFTP" host="192.168.1.222" port="7070" sshConfigId="2fb4f4ad-5d3d-4b57-b212-b1db58a79c37" sshConfig="root@192.168.1.222:7070 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
